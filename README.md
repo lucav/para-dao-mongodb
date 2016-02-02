@@ -1,4 +1,4 @@
-# MongoDB DAO plugin for Para Server
+# MongoDB DAO plugin for Para
 
 ![Logo](https://s3-eu-west-1.amazonaws.com/org.paraio/para.png)
 ============================
